@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Maurice31-prog-coder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Stage Zero Task - HackBio Biocoding Internship  
 
-<!---
-Maurice31-prog-coder/Maurice31-prog-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Task Overview  
+This repository contains the solution for the **Stage Zero Task** in the **HackBio Biocoding Internship**.  
+
+### **Task Requirements**  
+- Form a team of at least **5 people**.  
+- Use **only Python** for the solution.  
+- Organize information using **lists of dictionaries**.  
+- Do **not** use functions, loops, or conditionals.  
+- Print the organized data in a structured format.  
+
+### **Solution Approach**  
+- Used a **list of dictionaries** to store team details.  
+- Used **simple print statements** to display the information.  
+
+### **How to Run the Code**  
+- Clone the repository:  
+  ```bash
+  git clone https://github.com/YOUR_USERNAME/hackbio-biocoding-internship.git
